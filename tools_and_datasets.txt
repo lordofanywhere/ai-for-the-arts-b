@@ -1,0 +1,26 @@
+TOOLS:
+
+ChatGPT – available at https://chat.openai.com/. ChatGPT uses GPT-4. Creating and using the custom GPT application requires an active ChatGPT Plus subscription ($20/month)
+
+DALL-E 3 – available at https://chat.openai.com/ as part of the ChatGPT Plus subscription.
+
+Narakeet – available at https://www.narakeet.com/
+
+VEED.io – available at https://www.veed.io/
+
+Invideo AI – available at https://invideo.io/
+
+
+---
+
+DATASETS:
+
+MS Gen 13: 19th century travel journal with illustrations, transcript from Bob McLean – available at https://moodle.gla.ac.uk/pluginfile.php/7891250/mod_label/intro/MSGen13-2.docx?time=1707395258838
+
+GB 247 MS Gen 13/1 – available at https://www.kaggle.com/datasets/emiliomoralesparedes/gb-247-ms-gen-131
+
+---
+
+APPLICATION:
+
+19th Century Travel Journal GPT – available at https://chat.openai.com/g/g-BtyUH4oNv-19th-century-travel-journal-gpt. Requires an active ChatGPT Plus subscription.
